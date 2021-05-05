@@ -1,0 +1,4 @@
+bqplot==0.12.26
+pandas==1.0.5
+ipywidgets==7.6.3
+voila==0.2.9
